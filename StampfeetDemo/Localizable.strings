@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  StampfeetDemo
+
+  Created by niall quinn on 06/06/2017.
+  Copyright © 2017 Popdeem. All rights reserved.
+*/
+
+"popdeem.home.header.titleText" = "Share your Stampfeet experience on social networks to earn more rewards.";
+"popdeem.home.title" = "Social";
+"popdeem.sociallogin.body" = "Connect and interact with Stampfeet on social networks to earn bonus rewards.";

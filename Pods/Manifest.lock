@@ -1,0 +1,42 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.23.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.23.0):
+    - FBSDKCoreKit
+  - JSONModel (1.7.0)
+  - PopdeemSDK (1.0.27):
+    - PopdeemSDK/Core (= 1.0.27)
+  - PopdeemSDK/Core (1.0.27):
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - JSONModel
+    - Shimmer
+    - STTwitter
+  - PopdeemSDK/UIKit (1.0.27):
+    - PopdeemSDK/Core
+  - Shimmer (1.0.2)
+  - STTwitter (0.2.6)
+
+DEPENDENCIES:
+  - PopdeemSDK
+  - PopdeemSDK/UIKit
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: d7829f5a69901cd7296105328e4c3c3fc7da6518
+  FBSDKLoginKit: 6b92bd65f319d669d2b0730e49db495ef1660566
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  PopdeemSDK: 2204d379eeb849a417949e9e54480d92ed7fd387
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  STTwitter: 30ee2f79eff78c3d633a1edc869e97db9c9ead59
+
+PODFILE CHECKSUM: c28b0dea0820207ad2ab6b8ef69ee716e9c9667f
+
+COCOAPODS: 1.2.0

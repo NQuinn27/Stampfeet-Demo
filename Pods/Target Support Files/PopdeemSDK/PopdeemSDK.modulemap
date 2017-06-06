@@ -1,0 +1,6 @@
+framework module PopdeemSDK {
+  umbrella header "PopdeemSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
